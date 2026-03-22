@@ -507,4 +507,6 @@ import os
 
 # # property
 # cart = Shopping_cart(700)
-# print(cart.price)  # 700
+# print(cart.price)  # 
+with open("main.py","w") as f:
+    f.write()
